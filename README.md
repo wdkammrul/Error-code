@@ -1,8 +1,8 @@
-# Responsive Portfolio Complete
+# My Portfolio 
 
-➤ Click here to view the Portfolio website: https://wdkammrul.github.io/Personal-Portfolio-2/ 
+➤ Click here to view the my portfolio website: https://wdkammrul.github.io/Personal-Portfolio-2/ 
 
-### Responsive Portfolio Complete
+### My Portfolio 
 
 - Responsive Personal Complete Portfolio Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
