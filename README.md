@@ -1,6 +1,6 @@
 # My Portfolio 
 
-➤ Click here to view the my portfolio website: https://wdkammrul.github.io/Personal-Portfolio-2/ 
+➤ Click here to view the my portfolio website: https://wdkammrul.github.io/My-Portfolio/
 
 ### My Portfolio 
 
