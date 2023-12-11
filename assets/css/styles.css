@@ -730,6 +730,7 @@ img{
     grid-template-columns: 2fr 1.2fr;
     padding: 0 2rem;
     border-radius: .5rem;
+    align-items: center;
   }
 
   .project__data{
@@ -741,7 +742,7 @@ img{
   }
 
   .project__img{
-    width: 100%;
+    /* width: 100%; */
     align-self: flex-end;
   }
 
