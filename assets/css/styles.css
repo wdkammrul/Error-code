@@ -305,7 +305,7 @@ img{
 }
 
 .about__img{
-  width: 150px;
+  width: 380px;
   border-radius: .5rem;
   margin: 0 auto;
 }
@@ -544,7 +544,8 @@ img{
 }
 
 .project__img{
-  width: 220px;
+  width: 100%;
+  height: 100%;
   justify-self: center;
 }
 /* ===== WORKS =====*/
@@ -708,7 +709,7 @@ img{
   }
 
   .about__img{
-    width: 220px;
+    width: 300px;
     
   }
 
@@ -740,7 +741,7 @@ img{
   }
 
   .project__img{
-    width: 230px;
+    width: 100%;
     align-self: flex-end;
   }
 
